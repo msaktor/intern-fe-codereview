@@ -65,7 +65,7 @@ const Table = ({ customerId }) => {
       <br />
       <br />
       <h1>Counter is: {counter}</h1>
-      <button onClick={increase}>Increase</button>
+      <button onClick={increase} style={{ padding: 20, fontSize: 18 }}>Increase</button>
     </div>
   );
 };
