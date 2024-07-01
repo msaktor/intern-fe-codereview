@@ -10,12 +10,12 @@ Then open http://localhost:5173/
 App has two functions:
 
 1. Listing employees  
-    a. employees can be sorted alphapbetically
+    a. employees can be sorted alphabetically
 2. Counter  
-    a. every click on Increase button shouls raise counter by 1
+    a. every click on Increase button should raise counter by 1
 
 ## Review goals
 Identify:  
 - bugs
 - code antipatterns
-- subomptimal code structure / architecture
+- sub-optimal code structure / architecture
